@@ -7,6 +7,8 @@ import Error5 from './components/Error5/Error5'
 import Error6 from './components/Error6/Error6'
 import Error7 from './components/Error7/Error7'
 import Error8 from './components/Error8/Error8'
+import Error9 from './components/Error9/Error9'
+import Error10 from './components/Error10/Error10'
 
 
 
@@ -21,7 +23,8 @@ const App = () => {
       <Error6 />
       <Error7 />
       <Error8 />
-
+      <Error9 />
+      <Error10 />
     </div>
   )
 }
